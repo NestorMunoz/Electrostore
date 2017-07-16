@@ -4,3 +4,6 @@ Ecommerce store using PHP with Laravel as a framework, authentication, products 
 If you wanna try it, this is a test user and his password for it:
 test@electrostore.com
 123456
+
+
+http://tests.x10.mx/
